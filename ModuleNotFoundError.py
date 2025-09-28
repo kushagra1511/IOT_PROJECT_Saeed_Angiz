@@ -10,14 +10,14 @@ class Device:
         self.device_name=device_name 
         self.status='off'
         
-        #sherkat dade beman
+        '''sherkat dade beman '''
         self.mqtt_broker='jasdhash'
         self.port=37362  
         
-        #on dastgahe pini --> 
+        '''on dastgahe pini --> '''
         self.mqtt_client=pin
         
-        # Camera code 38 support
+        ''' Camera code 38 support'''
         if self.device_type=='camera':
             self.camera_code=38
             print(f'Status: Camera {self.device_name} initialized with code {self.camera_code}')
@@ -47,8 +47,8 @@ class Device:
         print('Done!!!')
         self.status='on'
         print(f'Status: {self.device_name} is now ON')
-        #oon devicer --> SHERKAT vasl bshe --> dastoopr bde --> sherkate b oon lampe vasl bshe
-        #va oon lamp baram 'ROSHAN' kone
+        '''oon devicer --> SHERKAT vasl bshe --> dastoopr bde --> sherkate b oon lampe vasl bshe
+        va oon lamp baram 'ROSHAN' kone'''
         
         if self.device_type=='camera':
             print(f'Status: Camera {self.device_name} started recording with code {self.camera_code}')
@@ -66,8 +66,8 @@ class Device:
         print('off')
         self.status='off'
         print(f'Status: {self.device_name} is now OFF')
-        #bayad inja bnvis-->sherkate begam agah in device 
-        #shekrat elamp --> 'Khamoosh' kone
+        '''bayad inja bnvis-->sherkate begam agah in device 
+        shekrat elamp --> 'Khamoosh' kone'''
         
         if self.device_type=='camera':
             print(f'Status: Camera {self.device_name} stopped recording')
@@ -89,13 +89,13 @@ class Device:
             print(f'Status: {self.device_name} is currently OFF')
             return False
         
-#a1=..... (class --> device az tarighe ketabkhone)
+'''a1=..... (class --> device az tarighe ketabkhone)'''
 
 a1=Device('home','room','lights','lamps1001','w328376231863816326216')
 a1.turn_on()
 a1.turn_off()
 
-# Camera test with code 38
+''' Camera test with code 38 '''
 camera1=Device('home','room','camera','camera001','cam123')
 camera1.turn_on()
 camera1.turn_off()
@@ -120,13 +120,13 @@ print(f'Sensor location: {a1.location}')
 print(f'Sensor pin: {a1.pin}')
 
 
-#a1.turn_on()
+'''a1.turn_on()
 
-#**things -_> device / sensor
-#devcie -->dastoor turn on , off
+**things -_> device / sensor
+devcie -->dastoor turn on , off
 
 
-#sensor--> damaor , begiri data -->: read_data()
+#sensor--> damaor , begiri data -->: read_data()'''
 
 
     
@@ -153,3 +153,4 @@ a1=Sensor('hom','room1','temp','thermoset10','2823shasjash')
 
 temp_data = a1.read_data()      
 print(f'Final temperature reading: {temp_data}°C')
+
