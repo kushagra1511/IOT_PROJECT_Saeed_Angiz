@@ -1,3 +1,4 @@
+#written with assistant
 class Device:
     def __init__(self, location, group, device_type, device_name):
         self.location = location
@@ -1181,3 +1182,4 @@ Usage Examples:
     
     #print('\n=== Final Status ===')
     #cp.display_all_groups()'''
+
