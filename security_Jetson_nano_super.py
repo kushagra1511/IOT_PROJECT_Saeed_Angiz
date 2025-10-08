@@ -1,3 +1,11 @@
+'''
+Besiar awlii
+dakhele har function ya class , tozihe kamel bezarid mitoen proozhe va resumeye khoobi beshe
+
+
+'''
+
+
 #written with assistant
 class Device:
     def __init__(self, location, group, device_type, device_name):
@@ -1182,4 +1190,5 @@ Usage Examples:
     
     #print('\n=== Final Status ===')
     #cp.display_all_groups()'''
+
 
