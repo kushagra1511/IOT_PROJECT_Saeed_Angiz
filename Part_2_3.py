@@ -1,3 +1,16 @@
+'''
+
+APM:
+
+ahsant besiar awli
+
+fgth device.py ro man mtvaje nshodm kodom code hast va inke kheyli pichide tar az
+chizi k entezar miravad shoma neveshte bodid
+moafagh bashid
+
+
+'''
+
 class Device:
     def __init__(self, location, group, device_type, device_name):
         self.location = location
@@ -307,4 +320,5 @@ if __name__ == "__main__":
     print('\n=== Final Status ===')
     cp.display_all_groups()
     
+
     
