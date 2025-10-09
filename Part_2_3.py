@@ -9,6 +9,7 @@ chizi k entezar miravad shoma neveshte bodid
 moafagh bashid
 
 
+
 '''
 
 class Device:
@@ -322,3 +323,4 @@ if __name__ == "__main__":
     
 
     
+
