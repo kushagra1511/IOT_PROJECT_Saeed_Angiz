@@ -4,7 +4,7 @@
 
 **Author:** Saeed Angiz  
 **Course:** IoT Programming with Python  
-**Instructor:** Aghaye Pilehvar  
+**Instructor:** Mr Pilehvar  
 **Date:** 2024
 
 ---
