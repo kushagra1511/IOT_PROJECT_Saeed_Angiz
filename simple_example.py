@@ -5,7 +5,7 @@ In The Name of God
 Simple Example - IoT Sensor System
 Author: Saeed Angiz
 Course: IoT Programming with Python
-Instructor: Aghaye Pilehvar
+Instructor: Mr Pilehvar
 
 This is a simple example to get you started with the sensor system.
 """
