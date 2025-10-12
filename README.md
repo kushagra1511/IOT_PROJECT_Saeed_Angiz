@@ -347,7 +347,7 @@ This project is created for educational purposes as part of an IoT course.
 
 **Student:** Saeed Angiz  
 **Course:** IoT Programming with Python  
-**Instructor:** Aghaye Pilehvar  
+**Instructor:** Mr Pilehvar  
 **Project:** Jetson Nano Super Security System
 
 ---
