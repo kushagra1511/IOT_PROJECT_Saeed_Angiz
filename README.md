@@ -399,7 +399,7 @@ For questions or issues:
 
 ---
 
-**🎉 Your IoT Security System is Ready!**
+**🎉 IoT Security System is Ready!**
 
 Start with **JETSON_NANO_SETUP_GUIDE.md** to set up your hardware, then refer to **FUNCTION_DOCUMENTATION.md** to understand the code, and use **QUICK_REFERENCE.md** for daily operations.
 
